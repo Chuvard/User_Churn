@@ -1,9 +1,9 @@
 # User_Churn
 SQL queries to calculate a User Churn
 
-### Purpose: During this project we will analyze Codeflix database in order to calculate subscription churn rates between two segments of users.
+### Purpose: During this project, we will analyze the Codeflix database in order to calculate subscription churn rates between two segments of users.
 
-### Given: The dataset provided to us is containing subscription data for users who were acquired through two distinct channels, and it grouped into one SQL table named "subscriptions".
+### Given: The dataset provided to us is containing subscription data for users who were acquired through two distinct channels, and it is grouped into one SQL table named "subscriptions".
 
 The given SQL table includes the following columns:
 
